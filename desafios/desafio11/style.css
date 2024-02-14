@@ -3,6 +3,13 @@
     padding: 0px;
     margin: 0px;
 }
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+
+:root{
+    --fonte:verdana,geneva,tahoma,sans-serif;
+    --fonte:"Passion One", sans-serif;
+}
+
 body{
     min-width: 100vh;
 }
